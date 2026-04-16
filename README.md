@@ -1,31 +1,103 @@
- ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Ashwin Chavhan</h1>
-<h3 align="center">Fullstack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+  ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ashwin-Chavhan&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwin-Chavhan" /> </p>
-<p align="left"> <a href="https://twitter.com/@AshwinRChavhan2" target="blank"><img src="https://img.shields.io/twitter/follow/ashwinrchavhan2?logo=twitter&style=for-the-badge" alt="@AshwinRChavhan2" /></a> </p>
+# 👋 Hi, I'm Ashwin Chavhan
 
-- 🔭 I’m currently working on **Frontend Development**
+<div align="center">
+  <h3>Fullstack Web Developer | React Enthusiast | UI/UX Focused</h3>
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-@AshwinRChavhan2-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/@AshwinRChavhan2)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin%20Chavhan-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashwin-chavhan-b0317b2a8)
+  [![Gmail](https://img.shields.io/badge/Email-ashwinc763%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ashwinc763@gmail.com)
+  
+  <img src="https://komarev.com/ghpvc/?username=Ashwin-Chavhan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
-- 🌱 I’m currently learning **React Js,Vue.js**
+---
 
-- 💬 Ask me about **Frontend Development**
+## 🚀 About Me
 
-- 📫 How to reach me **ashwinc763@gmail.com**
+I'm a passionate **Fullstack Web Developer** with a strong focus on creating beautiful, responsive, and user-friendly web applications. I love building engaging frontend experiences while maintaining clean, scalable backend architecture.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@AshwinRChavhan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AshwinRChavhan2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashwin-chavhan-b0317b2a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashwin-chavhan-b0317b2a8" height="30" width="40" /></a>
-<a href="https://instagram.com/ashwin_r_chavhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ashwin_r_chavhan" height="30" width="40" /></a>
-</p>
+- 🎯 **Currently Working On:** Advanced Frontend Development with modern frameworks
+- 📚 **Learning:** React.js, Vue.js, and Web Performance Optimization
+- 💡 **Expertise:** Frontend Development, Responsive Design, Component Architecture
+- 📧 **Reach Me:** [ashwinc763@gmail.com](mailto:ashwinc763@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashwin-Chavhan&show_icons=true&locale=en&layout=compact" alt="Ashwin-Chavhan" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashwin-Chavhan&show_icons=true&locale=en" alt="Ashwin-Chavhan" /></p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-Chavhan&" alt="Ashwin-Chavhan" /></p>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashwin-Chavhan&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashwin-Chavhan&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwin-Chavhan&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+## 🎓 Featured Projects
+
+> 💼 Check out my [GitHub repositories](https://github.com/Ashwin-Chavhan) for more projects
+
+### Coming Soon
+I'm working on some exciting projects. Stay tuned! 🚀
+
+---
+
+## 📝 Latest Blog Posts
+
+> 📖 More content coming soon on my blog
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects or discussing new ideas!
+
+<div align="center">
+  
+  **[Twitter](https://twitter.com/@AshwinRChavhan2)** • **[LinkedIn](https://linkedin.com/in/ashwin-chavhan-b0317b2a8)** • **[Instagram](https://instagram.com/ashwin_r_chavhan)** • **[Email](mailto:ashwinc763@gmail.com)**
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=0e75b6&center=true&vCenter=true&width=500&lines=Fullstack+Developer;React+Enthusiast;Web+Designer;Always+Learning" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  **Made with ❤️ by Ashwin Chavhan** | *Last Updated: 2026*
+  
+</div>
